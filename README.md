@@ -1,8 +1,11 @@
 # add_sku_sn
 
-更新sku_sn字段
-1:EasySwooleEvent.php配置mysql连接
-2:php easyswoole start 
+更新sku_sn字段  
+
+1:EasySwooleEvent.php配置mysql连接  
+
+2:php easyswoole start  
+
 3:访问 127.0.0.1:9501/index/snow?page=1
 
 每次5万条.
